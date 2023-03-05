@@ -148,7 +148,7 @@ match = "泰国"
 replace = "泰"
 
 [[rename_node]]
-match = "越南"
+match = "越南":
 replace = "越"
 
 [[rename_node]]
@@ -175,3 +175,7 @@ replace = "土"
 [[rename_node]]
 match = '\(?((x|X)?(\d+)(\.?\d+)?)((\s?倍率?)|(x|X))\)?'
 replace = "$1x"
+
+[[rename_node]]
+match = " Premium ✈️| Light ✈️"
+replace = ""

@@ -1,0 +1,21 @@
+# times RE
+[[rename_node]]
+match = '\(?((x|X)?(\d+)(\.?\d+)?)((\s?倍率?)|(x|X))\)?'
+replace = "$1x"
+
+#Nerwo_only
+[[rename_node]]
+match = '\sPremium|\sLight'
+replace = ""
+
+[[rename_node]]
+match = '☆|★|\|'
+replace = ""
+
+[[rename_node]]
+match = '([^\x00-\xff][A-Z]{1,4})-([^\x00-\xff])'
+replace = "$1$2"
+
+[[rename_node]]
+match = '([^\x00-\xff][A-Z]{1,4}) - ([^\x00-\xff])'
+replace = "$1$2"

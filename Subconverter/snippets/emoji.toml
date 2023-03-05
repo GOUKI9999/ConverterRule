@@ -36,7 +36,7 @@ match = "(Ascension|阿森松)"
 emoji = "🇦🇨"
 
 [[emoji]]
-match = "(?i:\\bUAE\\b|Dubai|阿联酋|迪拜)"
+match = "(?i:\\bUAE\\b|Dubai|阿联酋|迪拜|阿布扎比)"
 emoji = "🇦🇪"
 
 [[emoji]]

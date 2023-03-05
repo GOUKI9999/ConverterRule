@@ -1,3 +1,8 @@
 # > GGST
 DOMAIN,ggst-game.guiltygear.com
-
+PROCESS-NAME,totsugeki-unga-bunga.exe
+PROCESS-NAME,totsugeki.exe
+PROCESS-NAME,GGST-Win64-Shipping.exe
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com

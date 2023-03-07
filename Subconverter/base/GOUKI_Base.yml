@@ -36,7 +36,7 @@ mode: rule
 log-level: info
  
 # When set to false, resolver won't translate hostnames to IPv6 addresses
-ipv6: true
+ipv6: flase
  
 # RESTful web API listening address
 external-controller: 127.0.0.1:9090
@@ -78,7 +78,7 @@ dns:
   # These nameservers are used to resolve the DNS nameserver hostnames below.
   # Specify IP addresses only
   default-nameserver:
-    - 114.114.114.114
+    - 223.5.5.5
     - 8.8.8.8
   enhanced-mode: fake-ip # or redir-host
   fake-ip-range: 198.18.0.1/16 # Fake IP addresses pool CIDR
@@ -94,10 +94,11 @@ dns:
   # All DNS questions are sent directly to the nameserver, without proxies
   # involved. Clash answers the DNS question with the first result gathered.
   nameserver:
-    - 114.114.114.114 # default value
-    - 8.8.8.8 # default value
-    - tls://dns.rubyfish.cn:853 # DNS over TLS
-    - https://1.1.1.1/dns-query # DNS over HTTPS
+  - 223.5.5.5
+  - 119.29.29.29
+  - 114.114.114.114
+  - https://doh.pub/dns-query
+  - https://dns.alidns.com/dns-query
  
   # When `fallback` is present, the DNS server will send concurrent requests
   # to the servers in this section along with servers in `nameservers`.
@@ -120,4 +121,13 @@ dns:
   fallback-filter:
     geoip: true
     ipcidr:
-    # - 240.0.0.0/4
+  ipv6: false
+  fallback:
+  - https://dns.cloudflare.com/dns-query
+  - "[2001:da8::666]:53"
+  - https://public.dns.iij.jp/dns-query
+  - https://jp.tiar.app/dns-query
+  - https://jp.tiarap.org/dns-query
+  - tls://dot.tiar.app
+  fake-ip-filter:
+  - "+.*"

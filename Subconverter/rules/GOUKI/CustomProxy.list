@@ -1,0 +1,7 @@
+# 内容：CustomProxy
+
+PROCESS-NAME,git.exe
+PROCESS-NAME,Fork.exe
+PROCESS-NAME,smartgit.exe
+PROCESS-NAME,GitHubDesktop.exe
+PROCESS-NAME,SourceTree.exe

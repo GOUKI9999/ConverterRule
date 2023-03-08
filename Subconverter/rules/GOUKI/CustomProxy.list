@@ -1,7 +1,12 @@
 # 内容：CustomProxy
 
 PROCESS-NAME,git.exe
+PROCESS-NAME,git
 PROCESS-NAME,Fork.exe
 PROCESS-NAME,smartgit.exe
 PROCESS-NAME,GitHubDesktop.exe
 PROCESS-NAME,SourceTree.exe
+DOMAIN-SUFFIX,lastpass.com
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,translate.googleapis.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net

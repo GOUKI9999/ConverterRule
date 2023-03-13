@@ -571,7 +571,6 @@ payload:
   - DOMAIN-SUFFIX,stat.pandora.xiaomi.com
   - DOMAIN-SUFFIX,union.mi.com
   - DOMAIN-SUFFIX,wtradv.market.xiaomi.com
-  - DOMAIN-SUFFIX,xmpush.xiaomi.com
 
   # Moji
   - DOMAIN-SUFFIX,ad.api.moji.com
@@ -798,7 +797,6 @@ payload:
   - DOMAIN-SUFFIX,ybp.yahoo.com
 
   # Zhihu
-  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 
   # Ads in Video apps 下面都是 ********************
 

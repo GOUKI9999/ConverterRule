@@ -50,6 +50,7 @@
 ;\sPremium [^,*?]|\sLight [^,*?]@
 \sPremium@Pr
 \sLight@Lt
+\sExclusive@Ex
 \s|\s@
 IPV6@
 线路@

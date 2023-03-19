@@ -3,6 +3,10 @@ DOMAIN,ggst-game.guiltygear.com
 PROCESS-NAME,totsugeki-unga-bunga.exe
 PROCESS-NAME,totsugeki.exe
 PROCESS-NAME,GGST-Win64-Shipping.exe
+# > bn
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
+# > dota2
+DOMAIN-SUFFIX,dota2.com
+PROCESS-NAME,dota2.exe

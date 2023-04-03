@@ -49,6 +49,7 @@
 ([^\x00-\xff][A-Z]{1,4}) - ([^\x00-\xff])@$1$2
 ;\sPremium [^,*?]|\sLight [^,*?]@
 ;Nerwo专用
+✈️@
 \sPremium@Pr
 \sLight@Lt
 \sExclusive@Ex

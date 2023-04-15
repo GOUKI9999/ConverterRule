@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,ifunservice.com
 DOMAIN-SUFFIX,ifunbj.aihelp.net.in
 DOMAIN-SUFFIX,ifunums.s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,powerup.ifun.com
+DOMAIN-SUFFIX,conda.anaconda.org
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,op.supes.top
@@ -14,6 +15,7 @@ DOMAIN-SUFFIX,s.juzicloud.vip
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,opentracker.i2p.rocks
 DOMAIN-SUFFIX,tpddns.cn
+DOMAIN-SUFFIX,netdata.cloud
 DOMAIN-SUFFIX,suo.yt
 DOMAIN-SUFFIX,duckdns.org
 DOMAIN-SUFFIX,dns-dns.com
@@ -30,6 +32,7 @@ DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,dnsapi.cn
 DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,api.nn.ci
+DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,checkipv6.synology.com
 DOMAIN-SUFFIX,checkport.synology.com
@@ -46,15 +49,19 @@ DOMAIN-SUFFIX,elb.amazonaws.com
 DOMAIN-SUFFIX,portcheck.transmissionbt.com
 DOMAIN-KEYWORD,qcloud
 IP-CIDR,100.24.218.0/24,no-resolve
+IP-CIDR,18.213.139.0/24,no-resolve
 IP-CIDR,18.214.42.0/24,no-resolve
-IP-CIDR,3.231.124.0/24,no-resolve
+IP-CIDR,184.73.94.0/24,no-resolve
 IP-CIDR,34.199.209.0/24,no-resolve
 IP-CIDR,34.226.9.0/24,no-resolve
 IP-CIDR,34.234.183.0/24,no-resolve
 IP-CIDR,34.235.82.0/24,no-resolve
+IP-CIDR,34.237.199.0/24,no-resolve
+IP-CIDR,44.207.12.0/24,no-resolve
 IP-CIDR,44.209.213.0/24,no-resolve
 IP-CIDR,50.16.43.0/24,no-resolve
 IP-CIDR,52.200.32.0/24,no-resolve
+IP-CIDR,52.206.92.0/24,no-resolve
 IP-CIDR,52.86.69.0/24,no-resolve
 IP-CIDR,54.159.2.0/24,no-resolve
 IP-CIDR,54.166.1.0/24,no-resolve

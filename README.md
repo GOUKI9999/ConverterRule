@@ -7,5 +7,8 @@ https://github.com/tindy2013/subconverter 的自定义配置文件
 
 https://github.com/CareyWang/sub-web 的js文件修改
 
+规则主要来自
+https://github.com/ACL4SSR/ACL4SSR
+
 参考了
-https://github.com/ImAubrey/ImAubrey 的同机场规则转换（关键字处理部分）
+https://github.com/ImAubrey/ImAubrey 的同机场规则转换（关键字处理部分和正则）

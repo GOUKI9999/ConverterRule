@@ -42,12 +42,13 @@ DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,QuICKcoNnECt.tO
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,synology.cn
-DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,qnap.com
 DOMAIN-SUFFIX,edge.api.myqnapcloud.com
+DOMAIN-SUFFIX,myqnapcloud.io
 DOMAIN-SUFFIX,elb.amazonaws.com
 DOMAIN-SUFFIX,portcheck.transmissionbt.com
 DOMAIN-KEYWORD,qcloud
+DOMAIN-KEYWORD,myqnapcloud
 IP-CIDR,100.24.218.0/24,no-resolve
 IP-CIDR,18.213.139.0/24,no-resolve
 IP-CIDR,18.214.42.0/24,no-resolve

@@ -1,7 +1,7 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2023-03-12 21:43:01
-  # 数量：350条
+  # 更新：2023-06-04 16:14:19
+  # 数量：365条
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,pv-cdn.net
+  - DOMAIN-SUFFIX,seattlespheres.com
   # URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 
   # AppleNews
@@ -332,6 +333,22 @@ payload:
   - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,olevodtv.com
 
+  # OpenAi
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stripe.com
+
   # PBS
   # USER-AGENT,PBS*
   - DOMAIN-SUFFIX,pbs.org
@@ -357,7 +374,7 @@ payload:
 
   # Spotify
   # USER-AGENT,Spotify*
-  - DOMAIN-KEYWORD,-spotify-com
+  - DOMAIN-KEYWORD,-spotify-
   - DOMAIN-KEYWORD,spotify.com
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
@@ -379,7 +396,7 @@ payload:
 
   # TikTok
   # USER-AGENT,TikTok*
-  - DOMAIN-KEYWORD,tiktokcdn-
+  - DOMAIN-KEYWORD,tiktokcdn
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ipstatp.com

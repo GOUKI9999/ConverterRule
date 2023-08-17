@@ -12,3 +12,5 @@ DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,firebaselogging.googleapis.com

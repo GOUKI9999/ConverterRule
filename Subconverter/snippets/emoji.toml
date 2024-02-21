@@ -184,6 +184,10 @@ match = "(?i:\\bIS[L]?\\b|Iceland|冰岛)"
 emoji = "🇮🇸"
 
 [[emoji]]
+match = "(iraq|Iraq|伊拉克)"
+emoji = "🇮🇶"
+
+[[emoji]]
 match = "(Italy|Milan|意大利|米兰)"
 emoji = "🇮🇹"
 

@@ -1,0 +1,10 @@
+# 内容：bard.google
+# 数量：1条
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,heygen.com
+DOMAIN-SUFFIX,heygen.ai
+DOMAIN-KEYWORD,heygen-resources

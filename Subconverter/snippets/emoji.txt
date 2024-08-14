@@ -85,6 +85,8 @@
 (乌拉圭|Uruguay),🇺🇾
 (Vietnam|越南),🇻🇳
 (Africa|南非),🇿🇦
+(Morocco|摩洛哥), 🇲🇦
+(Qatar|卡塔尔), 🇶🇦
 (Guatemala|危地马拉), 🇬🇹
 (Ecuador|厄瓜多尔), 🇪🇨
 (Nepal|尼伯尔|尼泊尔), 🇳🇵

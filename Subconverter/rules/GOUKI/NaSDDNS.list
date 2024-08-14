@@ -1,6 +1,6 @@
 # 内容：Nas(Synology & QNAP)DDNS
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,plex.direct
+# DOMAIN-SUFFIX,plex.tv
+# DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,tpddns.cn
 DOMAIN-SUFFIX,netdata.cloud

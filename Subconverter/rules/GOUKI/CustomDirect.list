@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,ifunbj.aihelp.net.in
 DOMAIN-SUFFIX,ifunums.s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,powerup.ifun.com
 DOMAIN-SUFFIX,conda.anaconda.org
+DOMAIN-SUFFIX,114menhu.com
 DOMAIN-SUFFIX,op.supes.top
 DOMAIN-SUFFIX,threebrother.top
 DOMAIN-SUFFIX,cutecloud.link
@@ -20,3 +21,7 @@ DOMAIN-SUFFIX,vfsglobal.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,ati.com
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,mainland.tivpn.com
+DOMAIN-SUFFIX,ads.kwai.com
+DOMAIN-SUFFIX,services.googleapis.cn,DIRECT
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,DIRECT

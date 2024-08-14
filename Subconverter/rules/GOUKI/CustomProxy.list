@@ -1,5 +1,4 @@
 # 内容：CustomProxy
-
 PROCESS-NAME,git.exe
 PROCESS-NAME,git
 PROCESS-NAME,Fork.exe
@@ -8,9 +7,13 @@ PROCESS-NAME,GitHubDesktop.exe
 PROCESS-NAME,SourceTree.exe
 DOMAIN-SUFFIX,announce.zerotier.com
 DOMAIN-SUFFIX,my.zerotier.com
+DOMAIN-SUFFIX,netdata.cloud
 DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,firebaselogging.googleapis.com
+DOMAIN-SUFFIX,community.oneplus.com
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct

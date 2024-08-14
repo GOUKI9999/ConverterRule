@@ -353,6 +353,14 @@ match = "(Ecuador|厄瓜多尔)"
 emoji = "🇪🇨"
 
 [[emoji]]
+match = "(?i:.*Qatar.*|.*卡塔尔.*|.*卡塔.*)"
+emoji = "🇶🇦"
+
+[[emoji]]
+match = "(?i:.*Morocco.*|.*摩洛哥.*|.*摩洛.*)"
+emoji = "🇲🇦"
+
+[[emoji]]
 match = "(Nepal|尼伯尔|尼泊尔)"
 emoji = "🇳🇵"
 
